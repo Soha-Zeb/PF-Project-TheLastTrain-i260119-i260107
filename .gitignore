@@ -1,0 +1,7 @@
+last_train
+last_train.exe
+*.o
+run1.txt
+run2.txt
+summary1.txt
+.DS_Store
